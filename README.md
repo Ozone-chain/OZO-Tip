@@ -7,8 +7,10 @@ Ozone Chain ecosystem. It enables users to send crypto tips across
 creators, communities, and digital experiences, with transactions
 recorded on-chain.
 
-🌐 **Website:** https://ozotip.com/\
-⛓️ **Blockchain:** Ozone Chain\
+🌐 **Website:** https://ozotip.com/
+
+⛓️ **Blockchain:** Ozone Chain
+
 🔗 **Explorer:** https://ozonescan.io/
 
 ------------------------------------------------------------------------
@@ -105,26 +107,6 @@ OZO Tip is part of the Ozone Chain ecosystem.
 Blockchain transactions may be irreversible. Check all transaction
 details carefully before confirming.
 
-## Project Links
-
-  Resource               Link
-  ---------------------- -----------------------------------------------
-  Official Website       https://ozotip.com/
-  Ozone Chain            https://ozonechain.io/
-  OzoneScan Explorer     https://ozonescan.io/
-  Ozone Chain Projects   https://ozonechain.io/projects-on-ozonechain/
-
-## Development
-
-This README describes the product at a high level. Repository-specific
-installation, environment variables, contract addresses, deployment
-commands, and contribution instructions should be added once the
-corresponding source code and deployment configuration are documented.
-
-## License
-
-Add the applicable `LICENSE` file and update this section before
-distributing the repository as open source.
 
 ------------------------------------------------------------------------
 
